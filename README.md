@@ -5,7 +5,7 @@ bylaws
 
 ‎(╯°□°）╯︵ ┻━┻
 
-A lot of people have approached me up in arms about shutting up unless I've got a financial solution. I'm of the opinion that that financial solutions with any integrity at all will only happen in conjunction with other types of more important changes: systemic, rhetorical, technical. 
+A lot of people have approached me up in arms about shutting up unless I've got a financial solution. I'm of the opinion that financial solutions with any integrity at all will only happen in conjunction with other types of more important changes: systemic, rhetorical, technical. 
 
 So here is something nerdy:
 
