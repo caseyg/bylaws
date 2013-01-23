@@ -1,6 +1,12 @@
 bylaws
 ======
 
+‎(╯°□°）╯︵ ┻━┻
+
+A lot of people have approached me up in arms about shutting up unless I've got a financial solution. I'm of the opinion that that financial solutions with any integrity at all will only happen in conjunction with other types of more important changes: systemic, rhetorical, technical. 
+
+So here is something nerdy:
+
 This repository contains an archive of [Cooper Union](http://cooper.edu)'s Bylaws from 1996 - 2012. Having done nothing more than pull these documents together into a folder, they already highlight the sloppy and outmoded manner in which Cooper's administrators create, distribute, and archive information. 
 
 Going forward I hope to use these documents as raw-material for experiments outlining best practices for living documents and content management systems that are transparent and accountable.
@@ -11,8 +17,12 @@ After a month of heckling the Secretary to the Board of Trustees, a mixed-bag of
 
 The first step of this is that most of the PDFs have been converted by hand into [Markdown](http://daringfireball.net/projects/markdown/), a plain-text writing format that provides for a little bit of structure. If you're adventurous, you can already download the files in the [/markdown](https://github.com/caseyg/bylaws/tree/master/markdown) directory and plug them into a [diff tool](http://en.wikipedia.org/wiki/Diff) like [Kaleidoscope](http://www.kaleidoscopeapp.com).
 
+![](https://raw.github.com/caseyg/bylaws/master/kaleidoscope-screenshot.png)
+
 In my dream-world I use this space to build tools that shoehorn these principles directly into the administrative workflows responsible for creating and distributing this mess, so that ridiculous retroactive unpacking efforts such as this are not necessary. 
 
 But this is a start.
 
 The original documents were accessed from [the library website](http://library.cooper.edu/archive/bylaws/cu_archives_docs_bylaws.html) on January 23rd, 2013. The six PDF files available on via the library are archived in the [/pdf](https://github.com/caseyg/bylaws/tree/master/pdf) directory of this repository. One version of the bylaws, made available by the library in HTML, is not yet archived here.
+
+┬──┬ ﻿ノ( ゜-゜ノ)
