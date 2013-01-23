@@ -1,3 +1,5 @@
+![Before and After](https://raw.github.com/caseyg/bylaws/master/img/before-after.png)
+
 bylaws
 ======
 
@@ -17,7 +19,7 @@ After a month of heckling the Secretary to the Board of Trustees, a mixed-bag of
 
 The first step of this is that most of the PDFs have been converted by hand into [Markdown](http://daringfireball.net/projects/markdown/), a plain-text writing format that provides for a little bit of structure. If you're adventurous, you can already download the files in the [/markdown](https://github.com/caseyg/bylaws/tree/master/markdown) directory and plug them into a [diff tool](http://en.wikipedia.org/wiki/Diff) like [Kaleidoscope](http://www.kaleidoscopeapp.com).
 
-![](https://raw.github.com/caseyg/bylaws/master/kaleidoscope-screenshot.png)
+![](https://raw.github.com/caseyg/bylaws/master/img/kaleidoscope-screenshot.png)
 
 In my dream-world I use this space to build tools that shoehorn these principles directly into the administrative workflows responsible for creating and distributing this mess, so that ridiculous retroactive unpacking efforts such as this are not necessary. 
 
