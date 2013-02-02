@@ -1,4 +1,4 @@
-![Before and After](https://raw.github.com/caseyg/bylaws/master/img/before-after.png)
+[![Marker Diff](https://raw.github.com/caseyg/bylaws/master/img/markerdiff-small.jpg)](https://raw.github.com/caseyg/bylaws/master/img/markerdiff-large.jpg)
 
 bylaws
 ======
@@ -17,9 +17,11 @@ If this collection doesn't look particularly interesting that's because it actua
 
 After a month of heckling the Secretary to the Board of Trustees, a mixed-bag of documents was passed to the college's Library, whose staff quickly posted them online. The files varied substantially in formatting and accessibility and were therefore hard to compare. I set about standardizing the documents as much as possible so the ways that this governing text has changed over time can begin to surface.
 
+![Before and After](https://raw.github.com/caseyg/bylaws/master/img/before-after.png)
+
 The first step of this is that most of the PDFs have been converted by hand into [Markdown](http://daringfireball.net/projects/markdown/), a plain-text writing format that provides for a little bit of structure. If you're adventurous, you can already download the files in the [/markdown](https://github.com/caseyg/bylaws/tree/master/markdown) directory and plug them into a [diff tool](http://en.wikipedia.org/wiki/Diff) like [Kaleidoscope](http://www.kaleidoscopeapp.com).
 
-![](https://raw.github.com/caseyg/bylaws/master/img/kaleidoscope-screenshot.png)
+![Kaleidoscope Screenshot](https://raw.github.com/caseyg/bylaws/master/img/kaleidoscope-screenshot.png)
 
 In my dream-world I use this space to build tools that shoehorn these principles directly into the administrative workflows responsible for creating and distributing this mess, so that ridiculous retroactive unpacking efforts such as this are not necessary. 
 
